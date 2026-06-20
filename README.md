@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a software development student, currently in my first year. I enjoy learning and building something new, productive, innovative, and creative. 
+I'm a software development student, currently in my second year. I enjoy learning and building something new, productive, innovative, and creative. 
 - 🌱 I’m currently learning ...
   - Java
   - MySQL
