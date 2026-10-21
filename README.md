@@ -12,6 +12,7 @@ I'm a software development student, currently in my second year. I enjoy learnin
   - XML
   - CSS
   - JavaScript
+  - Kotlin
 - 👯 I’m looking forward to learn more things.
 - ✔ Ask me about anything, I am happy to help.<br>
 - Outside tech, 💜I love streaming on twitch, kick and youtube, 🎮 playing videogames, and 🎵 listening to music.
